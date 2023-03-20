@@ -10,5 +10,8 @@ Login Form project. HTML, CSS and JavaScript
   ![login1](https://user-images.githubusercontent.com/55388127/224405694-f32225fa-f616-476b-859b-928774ce6e93.PNG)
 
 * This is what happens when a user enters correct details
+  
+  Username: Bond
+  Password: 007
 
   ![login2](https://user-images.githubusercontent.com/55388127/224405701-1fcda111-4697-47db-8b26-af3a6a02e90d.PNG)
